@@ -7,5 +7,6 @@ int main(){
     cin >> number;
     cube = number * number * number;
     cout << "Cube of " << number << " is " << cube;
+    
     return 0;
 }
