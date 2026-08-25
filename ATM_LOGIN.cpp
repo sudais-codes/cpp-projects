@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-class LOGIN
-{
+class LOGIN{
 public:
     int pin = 1234;
     float balance = 5000;
